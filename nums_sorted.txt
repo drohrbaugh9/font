@@ -95,12 +95,43 @@ vertical        |  7c  |
 close_brace     |  7d  |
 tilde           |  7e  |
 
+inverted_exclam |  a1  |
+cents           |  a2  |
+
+copyright       |  a9  |
+
+plusminus       |  b1  |
+
+mu              |  b5  |
+pilcrow         |  b6  |
+
+inverted_q      |  bf  |
+
+multiply        |  d7  |
+
+divide          |  f7  |
+
 single_quote1   | 2018 |
 (single_quote2) | 2019 |
 
 quote2          | 201c |
 quote1          | 201d | quote3 (22)
 
+bullet          | 2022 |
+
+ellipsis        | 2026 |
+
+interrobang     | 203d |
+
+ohm             | 2126 |
+
 logo_solid      | 2199 |
 
 logo            | 21d9 |
+
+approx          | 2248 |
+
+not_equals      | 2260 |
+
+lteq            | 2264 |
+gteq            | 2265 |
